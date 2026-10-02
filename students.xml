@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+
+    <student>
+        <name>Dheepika.S</name>
+        <roll>902550</roll>
+        <department>AI and DS</department>
+    </student>
+
+    <student>
+        <name>Adlin Jeny.J</name>
+        <roll>902551</roll>
+        <department>AI and DS</department>
+    </student>
+
+    <student>
+        <name>S.Aspha</name>
+        <roll>902552</roll>
+        <department>AI and DS</department>
+    </student>
+
+</students>
